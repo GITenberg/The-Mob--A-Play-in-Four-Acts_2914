@@ -1,5 +1,8 @@
 _repo: The-Mob--A-Play-in-Four-Acts_2914
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -14,6 +17,8 @@ description: This 1914 drama follows a moral politician, Stephen More, as he wat
   is using trumped up charges in order to overtake and add the small country to their
   empire. More feels powerless as pressures from his family and parliament keep him
   quiet.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2914#The-Mob--A-Play-in-Four-Acts
 gutenberg_issued: '2004-09-26'
 gutenberg_type: Text
 identifiers:
